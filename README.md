@@ -17,7 +17,6 @@ The analysis covers **PageSpeed performance, keyword research, on-page SEO, and 
 
 ## 🗂 Files in this Repo
 -[power point](https://github.com/suryapraakash/seo-audit-and-optimization/blob/main/powerpoint/SEO%20AUDIT%20AND%20OPTIMIZATION%20GO%20FRUGAL.pptx)- Complete audit report  
-- [`findings.md`](https://github.com/suryapraakash/seo-audit-and-optimization/blob/main/README.md) → Summary of insights & recommendations  
 
 ---
 
